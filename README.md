@@ -44,7 +44,7 @@ We apply these principles by hosting a Markdown resume using a lightweight stati
 5. Enter a short description that describes the repository.
 6. Select **Public** option for your repository.
 7. Select **Initialize this repository with a README file** option. 
-8. Select **MIT License** option under **Choose a License**
+8. Select **MIT License** option under **Choose a License**.
 9. Click the **Create repository** button at the very bottom. 
 
 You now have a repository where all your files can be uploaded and shared.
@@ -103,7 +103,7 @@ You now have a simple static website! At this point, you will see your README on
 
    ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/workflows.png)
 
-12. Go to your website at `https://[your_github_username].github.io/`
+12. Go to your website at `https://[your_github_username].github.io/`.
 13. Check your website content has been updated with your resume.
 
 You have now hosted your resume! Next, we will customize to our website. 
@@ -113,7 +113,7 @@ You have now hosted your resume! Next, we will customize to our website.
 
 There are several GitHub supported themes we can choose from [here](https://pages.github.com/themes/).
 
-GitHub also allows us to use any other theme if it is already hosted on a GitHub repository. For example, [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) by user [@daattali](https://github.com/daattali)
+GitHub also allows us to use any other theme if it is already hosted on a GitHub repository. For example, [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) by user [@daattali](https://github.com/daattali).
 
 1. Pick a theme you want to use either from GitHub supported themes or any other Jekyll themes already hosted on GitHub.
 2. Go back to your GitHub repository.
@@ -140,7 +140,7 @@ GitHub also allows us to use any other theme if it is already hosted on a GitHub
 9. Write a commit message in the pop-up.
 10. Click **Commit changes** again in the pop-up.
 11. Check the workflow under actions tab is all green.
-12. Go to your website `https://[your_github_username].github.io/`
+12. Go to your website `https://[your_github_username].github.io/`.
 13. Check your website content has been updated with your selected theme.
 
 Your repository should look something like this:
@@ -169,7 +169,7 @@ Here are some other additional guides and resources to help you.
 
 - Aivee Teodocio, [@aivee-teodocio](https://github.com/aivee-teodocio) - Reviewed this guide.
 - Eseosa Ataga, [@Marie-Lenora](https://github.com/Marie-Lenora) - Reviewed this guide.
-- [@pages-theme](https://github.com/pages-themes) - Provided Cayman Jekyll theme template
+- [@pages-theme](https://github.com/pages-themes) - Provided [Cayman](https://github.com/pages-themes/cayman) Jekyll theme template
 - [Andrew Etter's book Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
@@ -180,6 +180,6 @@ Here are some other additional guides and resources to help you.
 We use GitHub Pages to host our website because it is simple and easy to use. Additionally, we can host a website for free while also maintaining version control on GitHub.
 
 #### **Why is my website giving me an error?**
-Check your repository name is `[your_github_username].github.io` and you are going to https://[you_github_username].github.io/.
+Check your repository name is `[your_github_username].github.io` and you are going to `https://[you_github_username].github.io/`.
 
 For further troubleshooting, go to [Troubleshooting 404 errors for GitHub Pages sites](https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites).
