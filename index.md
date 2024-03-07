@@ -20,7 +20,9 @@
 * Further explored mapping on IBM Cognos Analytics and Microsoft PowerBI, opening new possibilities for future dashboards.
 
 ### Intellectual Property Office, Public Health Agency of Canada
-#### Administrative Assistant, FSWEP Student | May 2020 - Dec 2021 | May 2022 - Aug 2022 | May 2023 - Aug 2023 
+#### Administrative Assistant, FSWEP Student | May 2020 - Dec 2021
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| May 2022 - Aug 2022
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| May 2023 - Aug 2023 
 * Create and edit Standard Operating Procedures which helped new employees with training
 * Create variety of fillable PDF forms using Foxit Phantom PDF which reduced time spent on gathering information from collaborators
 * Create Microsoft Excel and Word documents with macros using VBA for smooth office operations and tracking information
