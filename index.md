@@ -13,7 +13,7 @@
 
 
 ## WORK EXPERIENCE
-### Software Developer, IT Student &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;Sept 2023 - Present &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;&emsp; &emsp; &emsp;Jan 2023 - Apr 2023
+### Software Developer, IT Student &emsp; &emsp; &emsp; &emsp; &emsp; Sept 2023 - Present &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;&emsp; &emsp; &emsp;Jan 2023 - Apr 2023
 ### Software Developer, CO-OP Student &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; May 2023 - Aug 2023 &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &ensp;Sept 2022 - Dec 2022
 #### Business Intelligence, Richardson International Limited
 * Wrote multiple scripts in Python, SQL and created dashboards and reports in IBM Cognos Analytics to automate a manual process for the credit group, saving them an hour every week. 
