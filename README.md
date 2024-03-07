@@ -35,9 +35,13 @@ We now apply these principles by hosting a resume written in Markdown on a light
 1. Log into your GitHub account.
 2. Click **+** icon on your top right corner of the page.
 3. Click **New repository** option on the menu that appears.
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/new_repo.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/new_repo.png)
+
 4. Type `[your_github_username].github.io` in the repository name box (i.e. hippo.github.io).
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/repo_name.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/repo_name.png)
+
 5. Enter a short description that describes the repository.
 6. Select **Public** option for your repository.
 7. Select **Initialize this repository with a README file** option. 
@@ -51,12 +55,19 @@ You have now created a repository where all your files can be uploaded and share
 
 1. Go to your repository. Note: If you just created your repository, you should already be in it.
 2. Click **Settings** under your repository name.
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/settings.png)
-3. Click **Pages** on the left sidebar under the Code and automation section. ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/pages.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/settings.png)
+
+3. Click **Pages** on the left sidebar under the Code and automation section.
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/pages.png)
+
 4. Select **Deploy from a branch** under source in the Build and deployment section.
 5. Select **main** in the first dropdown under the branch subsection.
 6. Select **/ (root)** in the second dropdown under the branch subsection.
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/github_pages_settings.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/github_pages_settings.png)
+
 7. Click **save** if applicable under the branch subsection.
 8. Open a new tab in your browser.
 9. Type `https://[your_github_username].github.io/` (i.e. https://hippo.github.io/) in the address bar of your new browser.
@@ -71,18 +82,28 @@ You have now created a simple static website! At this point, you will see your R
 2. Click on your repository name at the top to go back to your GitHub repository.
 3. Click **Add file** beside the green code button.
 4. Click **Upload files** option on the menu that appears.
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/upload_files.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/upload_files.png)
+
 5. Click **Choose your files**.
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/choose_files.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/choose_files.png)
+
 6. Select your resume that is saved as `index.md`.
 7. Write a commit message under **Commit changes**. This can be anything about the action we are about to do such as "Add files via upload."
 8. Select **Commit directly to the main branch** option.
 9. Click **Commit changes** at the bottom. You will be redirected back to your repository's main page.
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/commit_changes.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/commit_changes.png)
+
 10. Click **Actions** tab under your repository name.
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/actions.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/actions.png)
+
 11. Check if all the items under **All workflows** have a green checkmark. If there is an orange dot beside an item, this means your changes are still being uploaded on your website.
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/workflows.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/workflows.png)
+
 12. Go to your website at `https://[your_github_username].github.io/`
 13. Check your website content has been updated with your resume.
 
@@ -99,9 +120,13 @@ GitHub also allows us to use any other theme as long as it is already hosted on 
 2. Go back to your GitHub repository.
 3. Click **Add file** beside the green code button.
 4. Click **Create new file** option on the menu that appears.
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/create_file.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/create_file.png)
+
 5. Type `_config.yml` in the **Name your file...** box.
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/config_name.png)
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/config_name.png)
+
 6. Add a new line in the file for the theme name.
     * If you are using a GitHub supported theme, type `theme: jekyll-theme-[theme_name]` replacing [theme_name] with name of the theme (i.e. theme: jekyll-theme-cayman).
     * If you are using any other themes hosted on GitHub, type `remote_theme: [theme_name]` replacing [theme_name] with name of the theme found in the README (i.e. remote_theme: beautiful-jekyll).
@@ -109,13 +134,15 @@ GitHub also allows us to use any other theme as long as it is already hosted on 
 8. (Optional) Add metadata lines accepted by your theme. Note: you can identify these by reading the README on your theme's repository. Examples include:
     * `title: [website_title]` (i.e. title: My Resume)
     * `description: [website_description]` (i.e. description: Welcome to my website!)
-![](https://github.com/gapy04/gapy04.github.io/blob/main/images/config_content.png)
-8. Click green **Commit changes** button on the right side.
-8. Write a commit message in the pop-up.
-9. Click **Commit changes** again in the pop-up.
-10. Check until the workflow under actions tab is all green.
-11. Go to your website at `https://[your_github_username].github.io/`
-12. Check your website content has been updated with your selected theme.
+
+   ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/config_content.png)
+
+9. Click green **Commit changes** button on the right side.
+10. Write a commit message in the pop-up.
+11. Click **Commit changes** again in the pop-up.
+12. Check until the workflow under actions tab is all green.
+13. Go to your website at `https://[your_github_username].github.io/`
+14. Check your website content has been updated with your selected theme.
 
 Note: Only one `theme: jekyll-theme-[theme_name]` or `remote_theme: [theme_name]` is allowed.
 
