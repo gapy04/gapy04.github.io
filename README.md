@@ -1,7 +1,7 @@
 
 # Hosting a Resume using GitHub Pages and Jekyll
 
-<img src="https://github.com/gapy04/gapy04.github.io/blob/main/images/resume.gif" width='1000' height='750'>
+<img src="https://github.com/gapy04/gapy04.github.io/blob/main/images/resume.gif">
 
 ## Purpose
 
