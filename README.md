@@ -1,7 +1,5 @@
 # Hosting a Resume using GitHub Pages and Jekyll
 
-<img src="https://github.com/gapy04/gapy04.github.io/blob/main/images/resume.gif">
-
 ## Purpose
 
 This is a step-by-step guide on how to host your resume on a website using GitHub Pages and Jekyll.
@@ -131,6 +129,7 @@ GitHub also allows us to use any other theme if it is already hosted on a GitHub
 6. Add a new line in the file for the theme name.
     * If you are using a GitHub supported theme, type `theme: jekyll-theme-[theme_name]` replacing [theme_name] with name of the theme (i.e. theme: jekyll-theme-cayman).
     * If you are using any other themes hosted on GitHub, type `remote_theme: [theme_name]` replacing [theme_name] with name of the theme (i.e. remote_theme: beautiful-jekyll).
+    * Note: Only one `theme: jekyll-theme-[theme_name]` or `remote_theme: [theme_name]` is allowed.
 7. (Optional) Add metadata lines accepted by your theme on a new line. Note: you can identify these by reading the README on your theme's repository. Examples include:
     * `title: [website_title]` (i.e. title: My Resume)
     * `description: [website_description]` (i.e. description: Welcome to my website!)
@@ -144,7 +143,9 @@ GitHub also allows us to use any other theme if it is already hosted on a GitHub
 12. Go to your website `https://[your_github_username].github.io/`
 13. Check your website content has been updated with your selected theme.
 
-Note: Only one `theme: jekyll-theme-[theme_name]` or `remote_theme: [theme_name]` is allowed.
+Your repository should look something like this:
+
+<img src="https://github.com/gapy04/gapy04.github.io/blob/main/images/resume.gif">
 
 Congratulations! You have successfully hosted your resume on a static website with customizations!
 
