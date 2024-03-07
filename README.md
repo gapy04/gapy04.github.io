@@ -1,6 +1,10 @@
 
 # Hosting a Resume using GitHub Pages and Jekyll
 
+<img src="https://github.com/gapy04/gapy04.github.io/blob/main/images/resume.gif" width='1000' height='750'>
+
+## Purpose
+
 This is a step-by-step guide on how to host your resume on a website using GitHub Pages and Jekyll for beginners.
 
 This guide heavily follows the principles from Andrew Etter's book _Modern Technical Writing_ as outlined in the next section.
