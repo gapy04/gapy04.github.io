@@ -169,7 +169,7 @@ Here are some other additional guides and resources to help you.
 
 - Aivee Teodocio, [@aivee-teodocio](https://github.com/aivee-teodocio) - Reviewed this guide.
 - Eseosa Ataga, [@Marie-Lenora](https://github.com/Marie-Lenora) - Reviewed this guide.
-- [@pages-theme](https://github.com/pages-themes) - Provided [Cayman](https://github.com/pages-themes/cayman) Jekyll theme template
+- [@pages-theme](https://github.com/pages-themes) - Provided [Cayman](https://github.com/pages-themes/cayman) Jekyll theme template.
 - [Andrew Etter's book Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
