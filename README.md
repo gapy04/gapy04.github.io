@@ -180,7 +180,7 @@ Here are some other additional guides and resources to help you.
 
 ### **Why should we use GitHub Pages for our website?**
 
-GitHub is a popular and widely used platform to upload and share files. GitHub Pages provides a seamless connection to GitHub repositories with Jekyll, hence making it easier to create a website. Additionally, we can host a website for free while also maintaining version control on GitHub. Hence, we use GitHub Pages for our website.
+GitHub is a popular and widely used platform to upload and share files. GitHub Pages provides a seamless connection to GitHub repositories with Jekyll, hence making it easier to create a website. Additionally, we can host a website for free while also maintaining version control on GitHub. Therefore, we use GitHub Pages as a free, popular and easy-to-use solution.
 
 ### **Why is my website giving me an error?**
 Check your repository name is `[your_github_username].github.io` and you are going to `https://[you_github_username].github.io/`.
