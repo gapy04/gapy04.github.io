@@ -1,5 +1,5 @@
 # Agape Yangup Seo 
-### [Email](mailto:seoa@myumanitoba.ca) | [LinkedIn](https://www.linkedin.com/in/agape-y-seo/)
+### [Email](mailto:seoa@myumanitoba.ca) | [GitHub](https://github.com/gapy04) | [LinkedIn](https://www.linkedin.com/in/agape-y-seo/)
 
 ## TECHNICAL SKILLS
 **Programming Languages**: Python, Java, Javascript, C, C++, C#, Visual Basic, SQL
@@ -65,7 +65,7 @@
 ### HRI Laboratory – University of Manitoba
 #### Student Volunteer | Nov 2019 - Apr 2020 
 * Under the supervision of Dr. James E. Young, assisted with coding qualitative data from several videos for a project
-* Published research paper: Where Should I Sit? Exploring the Impact of Seating Arrangement in a Human-Robot Collaborative Task
+* Published research paper: [Where Should I Sit? Exploring the Impact of Seating Arrangement in a Human-Robot Collaborative Task](https://doi.org/10.1145/3406499.3415080)
 
 ### Computer Science Booth – University of Manitoba
 #### Outreach Ambassador | Feb 2020
