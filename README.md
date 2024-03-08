@@ -10,9 +10,9 @@ This guide heavily follows the principles from Andrew Etter's book _Modern Techn
 
 Andrew Etter discusses several principles to writing good software documentation in his book, _Modern Technical Writing_. Notably:
 
-* **Use a lightweight markup language to write documentation**. We use lightweight markup languages like Markdown because they are compatible with various different platforms, free to use, human-readable, and straightforward to learn. This allows us to collaborate with various people.
+* **Use a lightweight markup language to write documentation**. We use lightweight markup languages like Markdown because they are compatible with various different platforms, free to use, human-readable, and straightforward to learn.
 
-* **Use a static site generator to host your documentation**. Static sites are fast, simple, secure, and portable because they do not require databases nor servers to function. With static site generators like Jekyll, all you need is a lightweight markup language document to create and easily customize our static sites. Therefore, we can make a beautiful and functional documentation website with ease.
+* **Use a static site generator to host your documentation**. Static sites are fast, simple, secure, and portable because they do not require databases nor servers to function. With static site generators like Jekyll, all we need is a lightweight markup language document to create and easily customize our static sites. Therefore, we can make a beautiful and functional documentation website with ease.
 
 * **Use a distributed version control system (DVCS) to share/host documents**. Using a DVCS like GitHub makes it easy to upload files into a repository and share it with others. In addition, it keeps track of any changes to the documents so we can collaborate without worry. 
 
@@ -24,6 +24,8 @@ We apply these principles by hosting a Markdown resume using a lightweight stati
 * A GitHub account. Sign-up [here](https://github.com/) to create an account for free.
 
 * A Markdown file containing your resume saved as `index.md`. For guidance on how to write in markdown look at [Markdown Tutorial](https://www.markdowntutorial.com/).
+
+* Learn about what Git and GitHub is. For more information, refer to [What is Git and GitHub](https://www.coursera.org/articles/what-is-git) and [GitHub Tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 
 
 ## Instructions
@@ -77,36 +79,35 @@ You now have a simple static website! At this point, you will see your README on
 
 ### Hosting your Resume
 
-1. Go back to the settings tab in your browser. 
-2. Click your repository name at the top to go back to your GitHub repository.
-3. Click **Add file** beside the green code button.
-4. Click **Upload files** option on the menu that appears.
+1. Go back to your GitHub repository.
+2. Click **Add file** beside the green code button.
+3. Click **Upload files** option on the menu that appears.
 
    ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/upload_files.png)
 
-5. Click **Choose your files**.
+4. Click **Choose your files**.
 
    ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/choose_files.png)
 
-6. Select your resume that is saved as `index.md`.
-7. Write a commit message under **Commit changes**. This should be a message about what we are doing such as "Add files via upload."
-8. Select **Commit directly to the main branch** option.
-9. Click **Commit changes** at the bottom. You will be redirected back to your repository's main page.
+5. Select your resume that is saved as `index.md`.
+6. Write a commit message under **Commit changes**. This should be a message about what we are doing such as "Add files via upload."
+7. Select **Commit directly to the main branch** option.
+8. Click **Commit changes** at the bottom. You will be redirected back to your repository's main page.
 
    ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/commit_changes.png)
 
-10. Click **Actions** tab under your repository name.
+9. Click **Actions** tab under your repository name.
 
    ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/actions.png)
 
-11. Check if all the items under **All workflows** have a green checkmark. If there is an orange dot beside an item, this means your changes are still being uploaded on your website.
+10. Check if all the items under **All workflows** have a green checkmark. If there is an orange dot beside an item, this means your changes are still being uploaded on your website.
 
    ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/workflows.png)
 
-12. Go to your website at `https://[your_github_username].github.io/`.
-13. Check your website content has been updated with your resume.
+11. Go to your website at `https://[your_github_username].github.io/`.
+12. Check your website content has been updated with your resume.
 
-You have now hosted your resume! Next, we will customize to our website. 
+You have now hosted your resume! Next, we will customize our website. 
 
 
 ### Adding a Theme to your Website using Jekyll
@@ -130,7 +131,7 @@ GitHub also allows us to use any other theme if it is already hosted on a GitHub
     * If you are using a GitHub supported theme, type `theme: jekyll-theme-[theme_name]` replacing [theme_name] with name of the theme (i.e. theme: jekyll-theme-cayman).
     * If you are using any other themes hosted on GitHub, type `remote_theme: [theme_name]` replacing [theme_name] with name of the theme (i.e. remote_theme: beautiful-jekyll).
     * Note: Only one `theme: jekyll-theme-[theme_name]` or `remote_theme: [theme_name]` is allowed.
-7. (Optional) Add metadata lines accepted by your theme on a new line. Note: you can identify these by reading the README on your theme's repository. Examples include:
+7. (Optional) Add metadata lines accepted by your theme on a new line. You can identify these by reading the README on your theme's repository. Examples include:
     * `title: [website_title]` (i.e. title: My Resume)
     * `description: [website_description]` (i.e. description: Welcome to my website!)
 
@@ -139,7 +140,7 @@ GitHub also allows us to use any other theme if it is already hosted on a GitHub
 8. Click green **Commit changes** button on the right.
 9. Write a commit message in the pop-up.
 10. Click **Commit changes** again in the pop-up.
-11. Check the workflow under actions tab is all green.
+11. Check the workflow under the **Actions** tab is all green.
 12. Go to your website `https://[your_github_username].github.io/`.
 13. Check your website content has been updated with your selected theme.
 
@@ -155,6 +156,8 @@ Here are some other additional guides and resources to help you.
 
 * [Markdown Tutorial](https://www.markdowntutorial.com/)
 * [Markdown Guide](https://www.markdownguide.org/getting-started/)
+* [Introduction to Git and GitHub](https://www.coursera.org/articles/what-is-git)
+* [GitHub Tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 * [GitHub Supported Themes List](https://pages.github.com/themes/)
 * [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll)
 * [How to host your website locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
@@ -171,15 +174,15 @@ Here are some other additional guides and resources to help you.
 - Eseosa Ataga, [@Marie-Lenora](https://github.com/Marie-Lenora) - Reviewed this guide.
 - [@pages-theme](https://github.com/pages-themes) - Provided [Cayman](https://github.com/pages-themes/cayman) Jekyll theme template.
 - [Andrew Etter's book Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [How to write a good README](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## FAQ
 
-#### **Why should we use GitHub Pages for our website?**
+### **Why should we use GitHub Pages for our website?**
 
-We use GitHub Pages to host our website because it is simple and easy to use. Additionally, we can host a website for free while also maintaining version control on GitHub.
+GitHub is a popular and widely used platform to upload and share files. GitHub Pages provides a seamless connection to GitHub repositories, hence making it easier to create a website. Additionally, we can host a website for free while also maintaining version control on GitHub.
 
-#### **Why is my website giving me an error?**
+### **Why is my website giving me an error?**
 Check your repository name is `[your_github_username].github.io` and you are going to `https://[you_github_username].github.io/`.
 
 For further troubleshooting, go to [Troubleshooting 404 errors for GitHub Pages sites](https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites).
