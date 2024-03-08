@@ -25,7 +25,7 @@ We apply these principles by hosting a Markdown resume using a lightweight stati
 
 * A Markdown file containing your resume saved as `index.md`. For guidance on how to write in markdown look at [Markdown Tutorial](https://www.markdowntutorial.com/).
 
-* Learn about what Git and GitHub is. For more information, refer to [What is Git and GitHub](https://www.coursera.org/articles/what-is-git) and [GitHub Tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+* Learn about what Git and GitHub is. For more information, refer to [What is Git and GitHub](https://www.coursera.org/articles/what-is-git) and [GitHub Tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world).
 
 
 ## Instructions
@@ -34,7 +34,7 @@ We apply these principles by hosting a Markdown resume using a lightweight stati
 ### Creating a Repository
 
 1. Log into your GitHub account.
-2. Click **+** icon on your top right corner of the page.
+2. Click **+** icon on the top right corner of the page.
 3. Click **New repository** option that appears.
 
    ![](https://github.com/gapy04/gapy04.github.io/blob/main/images/new_repo.png)
@@ -146,7 +146,7 @@ GitHub also allows us to use any other theme if it is already hosted on a GitHub
 
 Your repository should look something like this:
 
-<img src="https://github.com/gapy04/gapy04.github.io/blob/main/images/resume.gif">
+![](https://github.com/gapy04/gapy04.github.io/blob/main/images/resume.gif)
 
 Congratulations! You have successfully hosted your resume on a static website with customizations!
 
@@ -180,7 +180,7 @@ Here are some other additional guides and resources to help you.
 
 ### **Why should we use GitHub Pages for our website?**
 
-GitHub is a popular and widely used platform to upload and share files. GitHub Pages provides a seamless connection to GitHub repositories, hence making it easier to create a website. Additionally, we can host a website for free while also maintaining version control on GitHub.
+GitHub is a popular and widely used platform to upload and share files. GitHub Pages provides a seamless connection to GitHub repositories with Jekyll, hence making it easier to create a website. Additionally, we can host a website for free while also maintaining version control on GitHub. Hence, we use GitHub Pages for our website.
 
 ### **Why is my website giving me an error?**
 Check your repository name is `[your_github_username].github.io` and you are going to `https://[you_github_username].github.io/`.
